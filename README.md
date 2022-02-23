@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devrajsoni1. I am a Senior Undergraduate at [IIT(BHU), Varanasi](iitbhu.ac.in), majoring in Metallurgical Engineering. I am a full-stack developer and my Tech-Stack includes MongoDB, ExpressJS, ReactJS, NodeJS, MySQL, Javascript, and, HTML/CSS/Bootstrap.
 - 👀 I’m interested in creating apps with a modern design scheme
 - 🌱 I’m currently learning how to run Machine Learning in your browser using TensorJS
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects as a backend developer(Node.js)
 - 📫 When I'm neither coding nor sleepin, I play Badminton. Would like to play a match with me? Reach out to me through my [Twitter](twitter.com/devrajsonix)
 
 
