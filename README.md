@@ -1,50 +1,40 @@
-<h1 align="center">Hi 👋, I'm Devraj Soni</h1>
+# 👋 Hi, I’m @devrajsoni1
 
-<p align="center">
-🎓 Senior Undergraduate at <a href="https://iitbhu.ac.in" target="_blank">IIT(BHU), Varanasi</a>  
-<br>
-💻 Full-Stack Developer | Backend Enthusiast  
-<br>
-🎯 Passionate about building scalable, modern web apps  
+<img align="right" src="https://avatars.githubusercontent.com/devrajsoni1" height="160" width="160" style="border-radius:50%;" alt="My profile picture">
+
+🎓 I graduated from [IIT(BHU), Varanasi](https://iitbhu.ac.in) with a major in Metallurgical Engineering.  
+💼 Currently, I work at **Siemens DISW** (formerly Altair) as a **C++ Backend Engineer** in the **Meshing & Geometry Team**.  
+🛠️ I’m passionate about **engineering clean, efficient, and scalable systems** — from backend algorithms to high-performance software architecture.  
+🎧🏸🏃‍♂️🎹 Off-screen, I enjoy **music production**, **badminton**, **running**, and almost **any sport** I can get into.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 📫 Let's Connect!
 
-- 🚀 I work with **MongoDB, Express.js, React.js, Node.js (MERN)**  
-- 🧰 Also familiar with **MySQL, C++, Python, HTML/CSS/Bootstrap**
-- 🌱 Currently exploring **TensorFlow.js** to run ML models in the browser
-- 🎮 Off-screen: You'll find me on a badminton court
-- 💬 Let's collaborate on interesting backend projects!
-
-📬 Reach out on [Twitter](https://twitter.com/devrajsonix)
+-  [Twitter](https://twitter.com/devrajsonix)
+-  [Instagram](https://www.instagram.com/in/devrajsonix/)
 
 ---
 
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-black?logo=node.js&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Express-black?logo=express&style=for-the-badge" />
-  <br />
-  <img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MySQL-black?logo=mysql&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS3-black?logo=css3&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=for-the-badge" />
-  <br />
-  <img src="https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge" />
-</p>
-
----
-
-<!--
+<!---
 devrajsoni1/devrajsoni1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--->
+--->
