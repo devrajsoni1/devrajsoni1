@@ -27,6 +27,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Java-black?logo=openjdk&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-black?logo=springboot&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Node.js-black?logo=node.js&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Express-black?logo=express&style=for-the-badge" />
